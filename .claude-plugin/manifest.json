@@ -1,5 +1,153 @@
 {
   "name": "skill-repo",
   "version": "1.0.0",
-  "skills": []
+  "skills": [
+    {
+      "name": "baoyu-url-to-markdown",
+      "path": "skills/superpowers/baoyu-url-to-markdown",
+      "command": "commands/baoyu-url-to-markdown.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "brainstorming",
+      "path": "skills/superpowers/brainstorming",
+      "command": "commands/brainstorming.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "dispatching-parallel-agents",
+      "path": "skills/superpowers/dispatching-parallel-agents",
+      "command": "commands/dispatching-parallel-agents.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "docx",
+      "path": "skills/superpowers/docx",
+      "command": "commands/docx.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "executing-plans",
+      "path": "skills/superpowers/executing-plans",
+      "command": "commands/executing-plans.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "finishing-a-development-branch",
+      "path": "skills/superpowers/finishing-a-development-branch",
+      "command": "commands/finishing-a-development-branch.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "mcp-builder",
+      "path": "skills/superpowers/mcp-builder",
+      "command": "commands/mcp-builder.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "pdf",
+      "path": "skills/superpowers/pdf",
+      "command": "commands/pdf.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "receiving-code-review",
+      "path": "skills/superpowers/receiving-code-review",
+      "command": "commands/receiving-code-review.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "requesting-code-review",
+      "path": "skills/superpowers/requesting-code-review",
+      "command": "commands/requesting-code-review.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "skill-creator",
+      "path": "skills/superpowers/skill-creator",
+      "command": "commands/skill-creator.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "skill-install",
+      "path": "skills/superpowers/skill-install",
+      "command": "commands/skill-install.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "subagent-driven-development",
+      "path": "skills/superpowers/subagent-driven-development",
+      "command": "commands/subagent-driven-development.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "systematic-debugging",
+      "path": "skills/superpowers/systematic-debugging",
+      "command": "commands/systematic-debugging.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "test-driven-development",
+      "path": "skills/superpowers/test-driven-development",
+      "command": "commands/test-driven-development.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "using-git-worktrees",
+      "path": "skills/superpowers/using-git-worktrees",
+      "command": "commands/using-git-worktrees.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "using-superpowers",
+      "path": "skills/superpowers/using-superpowers",
+      "command": "commands/using-superpowers.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "verification-before-completion",
+      "path": "skills/superpowers/verification-before-completion",
+      "command": "commands/verification-before-completion.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "writing-plans",
+      "path": "skills/superpowers/writing-plans",
+      "command": "commands/writing-plans.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "writing-skills",
+      "path": "skills/superpowers/writing-skills",
+      "command": "commands/writing-skills.md",
+      "tested": false,
+      "category": "superpowers"
+    },
+    {
+      "name": "skill-repo-cli",
+      "path": "skills/tools/skill-repo-cli",
+      "command": "commands/skill-repo-cli.md",
+      "tested": false,
+      "category": "tools"
+    }
+  ]
 }
